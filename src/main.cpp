@@ -1,5 +1,6 @@
 #include <iostream>
 #include "parser.h"
+#include <string>
 
 int main(){
     std::string fullname;
